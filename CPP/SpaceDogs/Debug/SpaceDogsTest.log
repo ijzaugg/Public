@@ -1,0 +1,86 @@
+﻿  SDDog.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDog.cpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDog.cpp(99,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDog.cpp(109,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDog.cpp(120,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDog.cpp(188,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDDogBeagle.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDogBeagle.cpp(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDDogChihuahua.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDogChihuahua.cpp(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDDogCorgi.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDogCorgi.cpp(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDDogDachshund.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDDogDachshund.cpp(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDPirate.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDPirate.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDPirate.cpp(33,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDPirate.cpp(95,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDPirate.cpp(97,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDShip.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShip.cpp(189,22): warning C4018: '<': signed/unsigned mismatch
+  SDShipChickenBone.cpp
+  SDShipCouch800.cpp
+  SDShipCowBone.cpp
+  SDShipDepot.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.cpp(16,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.cpp(38,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.cpp(79,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDShipDogHouse9K.cpp
+  SDShipKennel.cpp
+  SDShipSqueaker.cpp
+  SDTradeGood.cpp
+  SDTradePost.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(31,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(54,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(89,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(130,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(152,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(159,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(169,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradePost.cpp(175,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SDTradeSystem.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradeSystem.cpp(174,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradeSystem.cpp(191,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDTradeSystem.cpp(216,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameStart.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SpaceDogs.cpp
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SDShipDepot.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(401,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(732,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(837,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(1194,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(1201,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(1219,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(1263,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\SpaceDogs.cpp(1281,41): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SpaceDogsTest.vcxproj -> C:\Users\izaug\OneDrive\Desktop\School Archives\2021 Spring\CSC 234 C++\SpaceDogsTest\Debug\SpaceDogsTest.exe

@@ -1,0 +1,5 @@
+Space Dogs was an end-of-semester project where we each had to contribute a game to a "Casino." Each game ran as an object underneath the main Casino program.
+
+This game was meant to demonstrate a variety of skills learned throughout the course. As a result, its design is significantly bloated, often using structures (subclasses, etc.) that were probably unnecessarily complicated, but fulfilled the requirements of the assignment.
+
+The game itself is a text-based space trading game, where the players compete to make the most space credits in a pre-determined number of rounds. It includes a randomly generated map filled wtih enemies, trading bases, and supply depots. Players are also able to choose different Space Dog classes and purchase new ships to give them different advantages throughout the game.

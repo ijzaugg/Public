@@ -1,0 +1,1 @@
+This repository contains a variety of student projects. Many are created in various versions of Unity and Unreal, depending on the availability of the engines at various labs and workshops.
