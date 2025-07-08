@@ -1,0 +1,1 @@
+For this project in a Design Thinking class on AI, I had to come up with creative ways to use existing AI tools. I made several variations on this project, but this was the most successful. It uses a simple implementation of Perlin Noise to create hills and valleys that can be altered by adjusting the settings in the randomizer script.
