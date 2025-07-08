@@ -1,0 +1,3 @@
+This microgame was made using Unity's racing tutorial as part of a design class. The emphasis here was on the design of the level, rather than any technical aspects.
+
+After completing some of the suggested tutorials, such as adding a hat to the race driver and changing up the car and materials on and around the track, I added a trick track that teleports the car between locations using trigger blocks laid across the track. A few looping animations also add some small decorations to the long racing experience.
