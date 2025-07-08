@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5e203a579948444d0a7aed3bf6ec2453
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cauldron: {fileID: 919132149155446097, guid: 01f3eb2116e0e6c46a1a746df992c01a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
