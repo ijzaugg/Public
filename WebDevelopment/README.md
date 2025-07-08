@@ -1,0 +1,1 @@
+This group project was an end of semester effot to demonstrate many of the skills we learned in the class. The site created by myself and my teammate uses base HTML, JavaScript, and Node and runs on a PHP server. A server is required to run this site, as the current hosting location was removed along with my student account.

@@ -1,0 +1,206 @@
+:root {
+    --bgcolor: #FFD9A3;
+    --textcolor: #47432A;
+    --elementbg: #ECE6DF;
+    --navcolor: #87121C;
+    --navtext: #FFD9A3;
+    --linkcolor: #47432A;
+    --bordercolor: #1E4467;
+
+    --fonts: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* General */
+footer {
+    font-size: small;
+    text-align: center;
+}
+
+body {
+    background-color: var(--bgcolor);
+    font: var(--fonts);
+    color: var(--textcolor);
+}
+
+h1 {
+    color: var(--bordercolor);
+}
+
+h2 {
+    color: var(--bordercolor);
+}
+
+main {
+    padding-top: 100px;
+    display: block;
+    padding-bottom: 20px;
+}
+
+/* Homepage */
+.tab {
+    margin-left: 40px;
+}
+
+a {
+    color: var(--navtext);
+}
+
+/* Navbar */
+.navbar {
+    background-color: var(--navcolor);
+    border-style: solid;
+    border: 5px solid var(--bordercolor);
+    color: var(--navtext);
+    font: var(--fonts);
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    display: inline;
+    z-index: 1;
+}
+
+.nav-item {
+    position: relative;
+    display: inline;
+    z-index: 2;
+}
+
+.nav-button {
+    background: none;
+    border: none;
+    color: var(--navtext);
+    font: var(--fonts);
+    position: relative;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    font-size: x-large;
+    height: 100%;
+    margin-right: 10px;
+    vertical-align: middle;
+    display: inline;
+    z-index: 2;
+}
+
+.nav-button:hover {
+    background-color: var(--linkcolor);
+}
+
+/* About Page */
+/* Format grid of member plaques */
+.members {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+}
+
+/* Individual member plaques */
+.teammember {
+    font: var(--fonts);
+    background-color: var(--elementbg);
+    color: var(--textcolor);
+    border-color: var(--bordercolor);
+    border-style: solid;
+    border-width: 5px;
+    margin: 10px;
+    border-style: solid;
+    text-align: left;
+}
+
+/* Member pictures */
+.aboutpic {
+    float: left;
+    border-color: var(--linkcolor);
+    border-style: solid;
+    border-width: 4px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px;
+    object-position: 25% 25%;
+}
+
+.logo {
+    object-fit: cover;
+}
+
+.homepageinfo {
+    border-color: var(--bordercolor);
+    border-style: solid;
+    background-color: var(--elementbg);
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 75%;
+    float: center;
+    margin: auto;
+    border-style: solid;
+    border-width: 5px;
+}
+
+/* Color generator */
+.input_prompts {
+    font-size: larger;
+}
+
+.input_box {
+    height: 18px;
+    width: 5%;
+}
+
+.error {
+    color: var(--navcolor);
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+}
+
+#squareTable table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+#squareTable table td {
+    border: 1px solid var(--bordercolor);
+    height: 38px;
+    width: 38px;
+}
+
+#colorTable table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+}
+
+#colorTable table td {
+    border: 1px solid var(--bordercolor);
+    height: 38px;
+}
+
+#colorTable table td:first-child {
+    width: 20%;
+}
+
+#colorTable table td:last-child {
+    width: 80%;
+}
+
+input[type="text"] {
+    background-color: var(--elementbg);
+    color: var(--textcolor);
+}
+
+input[type="radio"] {
+    appearance: none;
+    background-color: var(--elementbg);
+    border: 1pt solid var(--bordercolor);
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+
+input[type="radio"]:checked {
+    background-color: var(--linkcolor);
+    border: 2pt solid var(--elementbg);
+}
