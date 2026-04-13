@@ -1,0 +1,1 @@
+Immersive Motivation is an environment for an experiment run in a Human-Computer Interaction course. The purpose was to determine if participants felt they had a deeper experience interacting with the environment in 2D or VR interfaces.
